@@ -1,8 +1,7 @@
 # Small example using d3JS with angular 1.6.2
 
-Test task
 Get starting.
-Clone existing source and use bower intall and after  use index.html
+Clone existing source and use bower install and after  use index.html
 
 
 Dependencies
