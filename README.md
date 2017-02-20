@@ -1,4 +1,4 @@
-# Loom Systems
+# Small example using d3JS with angular 1.6.2
 
 Test task
 Get starting.
